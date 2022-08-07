@@ -1,0 +1,64 @@
+/*About*/
+.about,
+.vision {
+  padding: 3rem 0;
+  img {
+    width: 80%;
+  }
+}
+
+article {
+  margin: 1rem;
+}
+
+.active {
+  color: $primary;
+  font-size: 0.8rem;
+}
+
+/*Vision*/
+.vision {
+  i {
+    font-size: 3rem;
+    margin-right: 1rem;
+    color: $footer;
+  }
+  strong {
+    color: $footer;
+  }
+  p {
+    font-size: 0.8rem;
+  }
+}
+
+.margin {
+  margin: 1.2rem;
+}
+
+/*Our Team*/
+.team {
+  background-color: $general;
+  padding: 3rem 0;
+  text-align: center;
+  img {
+    width: 100%;
+    padding-bottom: 2rem;
+  }
+  .color {
+    background-color: white;
+  }
+  p {
+    line-height: 0.5;
+    color: black;
+  }
+  .active {
+    color: $primary;
+  }
+}
+
+/*Solution*/
+.solution {
+  background-color: $white;
+  padding: 3rem 0;
+  text-align: center;
+}
