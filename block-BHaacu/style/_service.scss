@@ -1,0 +1,15 @@
+/*Services*/
+.products {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    text-align: center;
+    article {
+        text-align: left;
+        img {
+            width: 20%;
+        }
+        hr {
+            color: $general;
+        }
+    }
+}
